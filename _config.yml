@@ -22,8 +22,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://pauloaferreiraa.github.io/personal-website/" #
-baseurl: "https://pauloaferreiraa.github.io/personal-website/"
+url: "personal-website" #
+baseurl: "https://pauloaferreiraa.github.io/"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
