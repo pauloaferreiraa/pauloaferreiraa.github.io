@@ -2,17 +2,21 @@
 title: Paulo Ferreira
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm a Software Engineer currently working at Talkdesk. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps, I'm a Software Engineer currently working at Talkdesk. 
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Welcome to my personal blog.
 
-If you have a question about him or else, just send a letter to him.
+My name is Paulo Ferreira and I was born in Barcelos, a small city in the north of Portugal. I completed a BsC degree in Computer Science and a MsC degree in Computer Engineering 💻 both at University of Minho 🎒. I also studied abroad during one year, in Madrid at Universidad Complutense de Madrid.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+I am currently working as a Software Engineer at Talkdesk 🦄
 
-**may u needs ✨**
+This blog has an emphasis on programming and its purpose is to push me to learn new things as well as share my thoughts and learnings on software devlopment related topics.
+
+**You can find me here ✨**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
+- twitter.com/{{ site.author.twitter }}
+- linkedin.com/in/{{ site.author.linkedin }}
