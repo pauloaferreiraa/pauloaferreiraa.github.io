@@ -1,8 +1,8 @@
 # Site settings
 title: Paulo Ferreira # site title
 description: >- # site description
-  Hi there, my name is Paulo and I am mainly a Software Engineer currently working at Talkdesk. 
-  You can find me <a href="https://github.com/pauloaferreiraa" target="_blank" rel="noopener">@github</a>.
+   Hi there, my name is Paulo and I am Software Engineer currently working at Talkdesk. 
+    You can find me <a href="https://github.com/pauloaferreiraa" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Europe/Lisbon # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Paulo Ferreira # author name
   bio: >- # tell to the world
-    Hi there, my name is Paulo and I am mainly a Software Engineer currently working at Talkdesk. 
+    Hi there, my name is Paulo and I am Software Engineer currently working at Talkdesk. 
     You can find me <a href="https://github.com/pauloaferreiraa" target="_blank" rel="noopener">@github</a>.
   username: pauloaferreiraa # general username
   github: pauloaferreiraa # github username
