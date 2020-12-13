@@ -23,7 +23,7 @@ author:
 
 # URL settings
 url: "pauloaferreiraa.github.io/" #
-baseurl: "/personal-website"
+baseurl: ""
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
